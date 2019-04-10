@@ -4656,6 +4656,9 @@ input[type="button"].btn-block {
   width: 100%;
   border-radius: calc(0.25rem - 1px);
 }
+.card-img a {
+	
+}
 
 .card-img-top {
   width: 100%;
